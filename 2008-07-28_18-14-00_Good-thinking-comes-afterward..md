@@ -18,4 +18,5 @@
 post:   
   tags: визуализация
   time: 2008-07-28 18:14:00
+  source: http://www.apofig.com/2008/07/blog-post_1503.html
 ```

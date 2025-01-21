@@ -57,4 +57,5 @@
 post:   
   tags: хочется
   time: 2008-07-17 18:53:00
+  source: http://www.apofig.com/2008/07/blog-post_17.html
 ```

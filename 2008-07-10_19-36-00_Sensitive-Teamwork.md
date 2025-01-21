@@ -20,4 +20,5 @@
 post:   
   tags: тимворк, хочу, чувства
   time: 2008-07-10 19:36:00
+  source: http://www.apofig.com/2008/07/l.html
 ```

@@ -22,4 +22,5 @@
 post:   
   tags: сон, пробуждение, будильник
   time: 2008-07-23 13:52:00
+  source: http://www.apofig.com/2008/07/blog-post_23.html
 ```

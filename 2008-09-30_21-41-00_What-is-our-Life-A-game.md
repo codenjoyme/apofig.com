@@ -31,4 +31,5 @@
 post:   
   tags: игра, пофигизм, жизнь, время, морщить
   time: 2008-09-30 21:41:00
+  source: http://www.apofig.com/2008/09/blog-post_30.html
 ```

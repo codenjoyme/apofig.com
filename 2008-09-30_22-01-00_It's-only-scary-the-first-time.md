@@ -15,4 +15,5 @@
 post:   
   tags: Ошо, страх, новое
   time: 2008-09-30 22:01:00
+  source: http://www.apofig.com/2008/09/blog-post_5766.html
 ```

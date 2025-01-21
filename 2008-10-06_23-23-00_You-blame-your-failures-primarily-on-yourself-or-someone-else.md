@@ -24,5 +24,5 @@
 post:   
   tags: игра, чай, цель, процесс, иллюзии
   time: 2008-10-06 21:41:00
-  source: http://otvet.mail.ru/question/18623551/
+  source: http://otvet.mail.ru/question/18623551/, http://www.apofig.com/2008/10/blog-post_8376.html
 ```

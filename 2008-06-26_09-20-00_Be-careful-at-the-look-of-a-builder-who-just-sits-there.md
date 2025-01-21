@@ -20,4 +20,5 @@
 post:   
   tags: бездействие, безопасность, внимание, строители
   time: 2008-06-26 09:20:00
+  source: http://www.apofig.com/2008/06/blog-post.html
 ```

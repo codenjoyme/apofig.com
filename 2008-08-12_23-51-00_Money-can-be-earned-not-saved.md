@@ -23,4 +23,5 @@
 post:   
   tags: деньги, зона комфорта, экономия
   time: 2008-08-12 23:25:00
+  source: http://www.apofig.com/2008/08/blog-post_6317.html
 ```

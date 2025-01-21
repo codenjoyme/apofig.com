@@ -15,4 +15,5 @@
 post:   
   tags: несогласие, новаторство, опыт
   time: 2008-07-13 20:11:00
+  source: http://www.apofig.com/2008/07/blog-post_13.html
 ```
